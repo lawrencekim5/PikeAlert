@@ -1,2 +1,2 @@
 # PikeAlert
-Discord bot made with Python. Detects when specified members joins voice channels and sends alerts to specified channels.
+Discord bot made with Python. Detects when specified members join voice channels and sends alerts to specified channels.
