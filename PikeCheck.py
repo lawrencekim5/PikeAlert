@@ -20,7 +20,6 @@ async def on_voice_state_update(member, before, after):
                 f"@everyone PIKE ALERT",
                 f"@everyone PIKE CHECK"
         ]
-  
         await channel.send(f"{random.choice(responses)}",file=discord.File(r'/home/voip/Desktop/PikeCheck/PikePlanted.wav'))
 
 # Bot commands using command_prefix. Not necessary.
