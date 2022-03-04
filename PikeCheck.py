@@ -27,4 +27,4 @@ async def on_voice_state_update(member, before, after):
 async def test(ctx):
     await ctx.send(f"I'm working right now!")
 
-client.run("<bot API token goes here>")
+client.run("<bot_API_token_goes_here>")
